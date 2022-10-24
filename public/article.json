@@ -1,0 +1,45 @@
+[
+    {
+      "_id": "63556dc2a3ca69d967994065",
+      "picture": "https://i.ibb.co/K53Y01t/art-1.png",
+      "logo": "https://i.ibb.co/p0g6D2w/logo-1.png",
+      "views": 1.4,
+      "name": "Sarthak Kamra",
+      "title": "Article",
+      "heading": "What if famous brands had regular fonts? Meet RegulaBrands!",
+      "paragraph": "I’ve worked in UX for the better part of a decade. From now on, I plan to rei…"
+    },
+    {
+      "_id": "63556dc2c33b2dabe4a3dc15",
+      "picture": "https://i.ibb.co/54j29GD/art-2.png",
+      "logo": "https://i.ibb.co/N6CCqzq/logo-2.png",
+      "views": 1.4,
+      "name": "Sarah West",
+      "title": "Education",
+      "heading": "Tax Benefits for Investment under National Pension Scheme launched by Government",
+      "paragraph": "I’ve worked in UX for the better part of a decade. From now on, I plan to rei…"
+    },
+    {
+      "_id": "63556dc269ae60343b64272e",
+      "picture": "https://i.ibb.co/m4qtk6z/art-3.png",
+      "logo": "https://i.ibb.co/QdHKh1J/logo-3.png",
+      "views": 1.4,
+      "name": "Ronal Jones",
+      "title": "Meetup",
+      "heading": "Finance & Investment Elite Social Mixer @Lujiazui",
+      "time": "Fri, 12 Oct, 2018",
+      "location": "Ahmadabad, India",
+      "btn": "visit website"
+    },
+    {
+      "_id": "63556dc2cefda6fd8b6cb198",
+      "logo": "https://i.ibb.co/wB0s3Cg/logo-4.png",
+      "views": 1.4,
+      "name": "Joseph Gray",
+      "title": "Job",
+      "company": "Innovaccer Analytics Private Ltd.",
+      "heading": "Software Developer",
+      "location": "Noida, India",
+      "btn": "apply on timesjob"
+    }
+  ]
