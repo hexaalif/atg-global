@@ -4,5 +4,22 @@
     background-size: cover;
 }
 .ban_con{
-    padding: 70px 0;
+    padding-top: 100px;
+    padding-bottom: 30px;
 }
+
+.heading{
+    font-size: 36px;
+}
+.para{
+    font-size: 18px;
+}
+
+@media (max-width: 575.98px) { 
+    .heading{
+        font-size: 17px;
+    }
+    .para{
+        font-size: 12px;
+    }
+ }

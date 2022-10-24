@@ -11,7 +11,7 @@ const ArticleMain = () => {
       .then((data) => setData(data));
   });
   return (
-    <div className="container d-flex">
+    <div className="container d-lg-flex">
       <div className="col-md-8">
         {datas.map((data) => (
           <ArticleDetails key={data._id} data={data}></ArticleDetails>
